@@ -16,29 +16,8 @@ class MainClass {
      */
   }
 
-
   /*
-   * Task One
-   * over() - an over in cricket is 6 balls bowled by the batting team
-   *
-   * Complete the subroutine over() which
-   * - Takes a single parameter - the number of the current over
-   *
-   * Returns an integer - the total number of runs scored in that over
-   *
-   * The routine should prompt the user for the number of runs scored
-   * on each ball of the over.
-   */
-
-  public static int over (int overNumber) {
-
-    // Add validation on the overNumber here
-    Console.WriteLine ("Implement over() here...");
-    return -1;    // Replace this with your code
-  }
-
-  /*
-  * Task Two
+  * Task One
   * Innings. An innings in cricket a number of overs bowled to a team.
   * limited overs, the bowling team bowls a limited/set number of 
   * overs, e.g. 20 overs or 50 overs.
@@ -68,6 +47,28 @@ class MainClass {
     Console.WriteLine ("Implement innings() here...");
     return -1; // replace this with 
   }
+
+  /*
+   * Task Two
+   * over() - an over in cricket is 6 balls bowled by the batting team
+   *
+   * Complete the subroutine over() which
+   * - Takes a single parameter - the number of the current over
+   *
+   * Returns an integer - the total number of runs scored in that over
+   *
+   * The routine should prompt the user for the number of runs scored
+   * on each ball of the over.
+   */
+
+  public static int over (int overNumber) {
+
+    // Add validation on the overNumber here
+    Console.WriteLine ("Implement over() here...");
+    return -1;    // Replace this with your code
+  }
+
+ 
 
   /*
   * Run the validation tests
